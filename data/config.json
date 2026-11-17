@@ -1,0 +1,8 @@
+{
+    "public_access": true,
+    "encryption": false,
+    "environment": "production",
+    "mfa_enabled": false,
+    "backup_enabled": false,
+    "logging_enabled": false
+}

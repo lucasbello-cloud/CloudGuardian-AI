@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.env
+data/audits.db
+data/audits.db-journal
+TechStore-AWS-Architeture/
+*:Zone.Identifier
