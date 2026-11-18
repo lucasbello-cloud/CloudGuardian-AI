@@ -29,19 +29,7 @@ Identificar configurações inseguras, calcular uma pontuação de risco e apres
 - Pytest
 - Linux / Ubuntu WSL
 
-## Execução
 
-    python main.py
-
-## Dashboard
-
-    uvicorn app:app --reload
-
-Acesse: http://127.0.0.1:8000
-
-## Testes
-
-    python -m pytest -v
 
 ## Evidências
 
